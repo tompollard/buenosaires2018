@@ -20,6 +20,7 @@ Workshop for Buenos Aires on 11 May 2018.
 
 ### 4. Introduction to working with notebooks in Colaboratory
 
+- I hope the internet works
 - Visit https://github.com/tompollard/buenosaires2018 and "fork" the repository to copy it.
 - Open `1_intro_to_python.ipynb` in Colaboratory and work through the notebook
 - Open `2_creating_table_one` in Colaboratory and work through the notebook
